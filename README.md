@@ -28,7 +28,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="62%">
-      <h3><img src="assets/skull.gif" width="22" height="22" align="center" alt="skull" /> &nbsp;System Profile</h3>
+      <h3><img src="assets/skull.gif" width="22" height="22" align="center" alt="skull" /> &nbsp;About!</h3>
       <ul>
         <li><b>Academic:</b> Delhi University &bull; Class of 2027</li>
         <li><b>Base:</b> Jaipur, India</li>
