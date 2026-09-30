@@ -51,9 +51,9 @@
 <!-- SECTION 05: GITHUB STATS                                          -->
 <!-- ================================================================= -->
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dishudhalwal12&show_icons=true&theme=transparent&title_color=ff2e4d&icon_color=ff2e4d&text_color=e6edf3&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=dishudhalwal12&show_icons=true&bg_color=0d1117&title_color=ff2e4d&icon_color=ff2e4d&text_color=e6edf3&border_color=30363d" height="165" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dishudhalwal12&theme=transparent&hide_border=true&ring=ff2e4d&fire=ff2e4d&currStreakLabel=ff2e4d&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e" height="165" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dishudhalwal12&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=ff2e4d&fire=ff2e4d&currStreakLabel=ff2e4d&currStreakNum=ff2e4d&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e" height="165" alt="Streak Stats" />
 </p>
 
 <br />
